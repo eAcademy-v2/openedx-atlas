@@ -13219,7 +13219,7 @@ msgstr ""
 
 #leadingpage
 msgid "Discover courses"
-msgstr "Descubrir módulos"
+msgstr "Descubrir curso"
 
 msgid "eAcademyathletics"
 msgstr "eAcademyAthletics"
@@ -13228,7 +13228,7 @@ msgid "The place for all your online learning"
 msgstr "El lugar para todo tu aprendizaje en línea"
 
 msgid "Search for a course"
-msgstr "Buscar un módulo"
+msgstr "Buscar un curso"
 
 msgid "Starts"
 msgstr "Comienza"
